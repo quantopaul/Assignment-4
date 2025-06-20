@@ -5,6 +5,7 @@
  I have created two scenarios in which shows what happens if file exists or doesn't exist.
  ## Scenario 1: File Existing
  Output:
+ 
  Line 1: This is a sample text
  
  Line 2: It contains multiple lines
@@ -21,6 +22,7 @@
  Functions used were write(), writelines(), read() and close()
 
 Output:
+
 Enter text to write in the file: AS-
 
 Enter text to append: Amaan Siddiqui
