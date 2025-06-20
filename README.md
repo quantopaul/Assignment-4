@@ -6,6 +6,7 @@
  ## Scenario 1: File Existing
  Output:
  Line 1: This is a sample text
+ 
  Line 2: It contains multiple lines
 
  ## Scenario 2 File doesn't exist through exception handling
