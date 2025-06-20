@@ -21,6 +21,9 @@
 
 Output:
 Enter text to write in the file: AS-
+
 Enter text to append: Amaan Siddiqui
+
 Chnage in the current file made successfully
+
 AS-Amaan Siddiqui
